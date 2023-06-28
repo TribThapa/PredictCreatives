@@ -1,4 +1,4 @@
-# Predict To Improve Creative Effectiveness
+# Predict Creative Effectiveness
 
 #### This repository contains examples that predcit customer responses to visual creatives using AI.
 
