@@ -3,7 +3,7 @@
 #### This repository contains examples that predcit customer responses to visual creatives using AI.
 
 <p align="center">
-    <img src="/Images/Aldi_Social_attention_heatmap.png" width="1500" height="450">
+    <img src="/Images/Aldi_Social_attention_heatmap.png" width="800" height="450">
 </p>
 
 ##### This technique can be used to for:
