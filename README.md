@@ -2,6 +2,10 @@
 
 #### This repository contains examples that predcit customer responses to visual creatives using AI.
 
+<p align="center">
+    <img src="/Images/Aldi_Social_attention_heatmap.png" width="1500" height="450">
+</p>
+
 ##### This technique can be used to for:
 1. Optimizing marketing assets.
     - Evaluate images, videos, ads, social media posts, emails, flyers, or any creatives for a campaign or client.
@@ -33,6 +37,8 @@
 6. Engagement
     - Predict how excited and immersed your customers will feel when they are exposed to your asset.
     - A high level of Engagement leads to increased brand memory and purchasing behavior.
+
+
 
 
 
