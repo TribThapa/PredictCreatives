@@ -3,7 +3,7 @@
 #### This repository contains examples that predcit customer responses to visual creatives using AI.
 
 <p align="center">
-    <img src="/Images/Aldi_Social_attention_heatmap.png" width="600" height="450">
+    <img src="/Images/Aldi_Social_attention_heatmap.png" width="200" height="250">
 </p>
 
 ##### This technique can be used to for:
@@ -39,6 +39,17 @@
     - A high level of Engagement leads to increased brand memory and purchasing behavior.
 
 <p>&nbsp;</p>
+
+### See examples below:
+
+### Image
+
+<p align="center">
+    <img src="/Images/Wotif_Social_attention_heatmap.png" width="500" height="450">
+</p>
+
+
+### Video
 
 <p align="center">
     <img src="/Images/Volkswagen_TVC_Sped.gif" width="500" height="450">
