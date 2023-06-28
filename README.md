@@ -41,7 +41,7 @@
 <p>&nbsp;</p>
 
 <p align="center">
-    <img src="/Images/Volkswagen_TVC_Sped.gif" width="600" height="450">
+    <img src="/Images/Volkswagen_TVC_Sped.gif" width="500" height="450">
 </p>
 
 
